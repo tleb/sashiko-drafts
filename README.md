@@ -1,7 +1,9 @@
 # sashiko-drafts
 
 Generate plaintext email drafts replying to [sashiko](https://sashiko.dev) &
-[netdev-sashiko](https://netdev-ai.bots.linux.dev/sashiko/) reviews.
+[netdev-sashiko](https://netdev-ai.bots.linux.dev/sashiko/) reviews. This is only useful
+for subsystems that *do not* send the reviews on the mailing lists (see [the list
+here](https://github.com/sashiko-dev/sashiko/blob/main/sashiko.dev/email_policy.toml)).
 
 **Setup:**
 
