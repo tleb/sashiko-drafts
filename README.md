@@ -48,7 +48,7 @@ wrote 6 drafts to IMAP Drafts
 **Example usage:**
 
 Replies on [this series
-](https://lore.kernel.org/netdev/20260731-macb-context-v6-0-49d5a1439d48@bootlin.com/)
+](https://lore.kernel.org/netdev/20260731-macb-context-v6-0-49d5a1439d48@bootlin.com/#r)
 were done using drafts generated with this script.
 
 **Install:**
